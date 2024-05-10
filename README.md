@@ -6,9 +6,9 @@
 
 <p align="left"> <a href="https://twitter.com/sharmaanav00" target="blank"><img src="https://img.shields.io/twitter/follow/sharmaanav00?logo=twitter&style=for-the-badge" alt="sharmaanav00" /></a> </p>
 
-- 🌱 I’m currently learning **App Development with Flutter.**
+- 🌱 I'm an Automaiton guy with proficiency in **Python**
 
-- 💬 Ask me about **Android, Networking, Ethical Hacking**
+- 💬 Ask me about **Automation with python, Android, Networking, Ethical Hacking**
 
 - 📫 How to reach me **linkedin.com/in/sharma-nav/**
 
